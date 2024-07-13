@@ -1,6 +1,6 @@
 # Azure-week7-Assignment
 
-
+Link for deployed webapp on azure Link: prernatest123.azurewebsites.net
 
 Steps to Complete the Assignment
 1. Observing Assigned Subscriptions
